@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2515526001
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 19 damnation.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: damnedmoonscene.lethalbundle
+      Dependencies: {}

@@ -1,0 +1,14 @@
+{
+    "name": "19 Damnation",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds a new hard moon to the game",
+    "dependencies": [
+        "MaxWasUnavailable-LethalModDataLib",
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-FixPluginTypesSerialization-1.1.1",
+        "IAmBatby-LethalLevelLoader",
+        "Evaisa-LethalLib",
+        "Evaisa-HookGenPatcher"
+    ]
+}
